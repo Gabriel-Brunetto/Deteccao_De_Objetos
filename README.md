@@ -1,1 +1,1 @@
-# Detec-o-De-Objetos
+# Detecção De Objetos Utilizando Python
